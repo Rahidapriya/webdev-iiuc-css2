@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: hsl(0,1%,30%);
+}
+h1{
+    background-color: rgb(70, 2, 70);
+    text-align: center;
+   color: #fff;
+    padding: 1% 0%;
+    margin-bottom: 3%;
+}
+.c1{
+    text-align: right;
+    background-color: aqua;
+    margin: 0% 30% 0% 30%;
+    margin-bottom: 3%;
+    padding: 2.5%;
+    border: 2px solid #000;
+
+}
+.c2{
+    text-align: right;
+    background-color: rgb(227, 239, 119);
+    margin: 0% 20% 0% 45%;
+    margin-bottom: 3%;
+    padding: 2.5%;
+    border: 5px dotted #000;
+}
+.c1 span{
+    background-color: red;
+    color:#fff;
+}
+.c2 span{
+    background-color: blueviolet;
+    color:#fff;
+}
+#i1{
+    text-align: left;
+    background-color: rgb(158, 242, 140);
+   
+    
+    margin: 0% 48% 2% 15%;
+    padding: 2.5%;
+    border: 4px double #000;
+}
